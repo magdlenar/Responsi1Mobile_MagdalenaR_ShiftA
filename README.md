@@ -1,16 +1,16 @@
 # manajemen_pariwasata
 
-A new Flutter project.
 
-## Getting Started
+## ScreenShots
+![Lampiran](ss/l.png)
+![Lampiran](ss/2.png)
+![Lampiran](ss/3.png)
+![Lampiran](ss/4.png)
+![Lampiran](ss/5.png)
+![Lampiran](ss/6.png)
+![Lampiran](ss/7.png)
+![Lampiran](ss/8.png)
+![Lampiran](ss/9.png)
+![Lampiran](ss/l0.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
